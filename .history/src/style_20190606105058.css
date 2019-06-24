@@ -1,0 +1,17 @@
+h1, p {
+    font-family: Lato;
+}
+
+body{
+    background:rgb(3, 3, 3);
+
+}
+
+#style {
+    text-align: right;
+    
+}
+.NavColor {
+    background-color: cadetblue;
+      
+}

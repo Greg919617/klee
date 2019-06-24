@@ -1,0 +1,13 @@
+h1, p {
+    font-family: Lato;
+}
+
+body{
+    background: rgba(98, 122, 190, 0.726);
+
+}
+
+#style {
+    text-align: right;
+    
+}
