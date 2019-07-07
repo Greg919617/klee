@@ -5,12 +5,12 @@ import SongItem from '../song-item/SongItem.js';
 
 const songs = [
   {url: '/album1/A-10-wanted.ogg', title: 'Wanted'},
-  {url: '/album1/on-rough.ogg', title: 'Own'},
+  {url: '/album1/on-rough.ogg', title: 'More music to come'},
   {url: '/album1/raw-120.ogg', title: 'Migrating more tracks soon'},
-  {url: '/wanted.mp3', title: 'React Audio Player'},
+  {url: '/wanted.mp3', title: 'Placeholders'},
   {url: '/wanted.mp3', title: 'React Track'},
   {url: '/wanted.mp3', title: 'NPM Track'},
-  {url: '/wanted.mp3', title: 'Migrating more tracks soon'},
+  {url: '/wanted.mp3', title: 'Stay tuned'},
 ];
 
 

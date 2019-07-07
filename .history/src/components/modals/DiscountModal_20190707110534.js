@@ -21,7 +21,7 @@ class DiscountModal extends Component {
             <Button inverted color='black' fluid onClick={this.show('small')}>Package Discounts</Button>
           
     
-            <Modal size={size} open={open} onClose={this.close} >
+            <Modal size={size} open={open} onClose={this.close} closeIcon>
               <Modal.Header>
                 Package Discounts
               </Modal.Header>
